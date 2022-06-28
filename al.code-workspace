@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "CoffeeIdeas.Test"
+                    },
+                    {
+                        "path":  "coffeeideas"
                     }
                 ],
     "settings":  {
